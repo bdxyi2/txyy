@@ -8,6 +8,7 @@
 
 Txyy.com 做的就是这件事。全网少见的**自有住宅光纤接入**，接的是 AT&T 正规宽带线路，洛杉矶本地机房，不是二手转租，是自己拉的线。
 
+<img width="3030" height="1544" alt="image" src="https://github.com/user-attachments/assets/b172da7d-f507-49f1-a7d6-ed7728ae4bee" />
 
 ---
 
